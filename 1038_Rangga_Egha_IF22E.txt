@@ -1,0 +1,16 @@
+﻿					UTS PEMROGRAMAN WEB
+
+Nama: Rangga Egha Permana
+Kelas:IF22E
+NIM: 22416255201038
+
+
+1. Framework pada pengembangan aplikasi adalah kerangka kerja yang digunakan oleh para pengembang aplikasi untuk memudahkan dalam membuat dan mengembangkan aplikasi. Framework ini berperan sebagai template atau model yang menyediakan fungsi cerdas dan elemen struktur standar untuk memudahkan pekerjaan developer. Framework membantu developer agar tidak perlu memulai proses development dari nol. Ada berbagai komponen siap pakai dan solusi yang mudah disesuaikan dalam framework untuk menyederhanakan proses pengembangan. Selain itu, framework juga rutin diuji, dioptimalkan, dan diupdate oleh programmer berpengalaman sehingga biasanya cukup aman dan efisien.
+
+
+
+2.kami kebagian projek tentang sekolah dengan tema perpustakaan 
+     1. Rangga Egha Permana (ketua/front end)
+      2. muhammad hafiz al-haq (backend)
+      3. muhammad riza dwi prasetya (front end-back end)
+Dalam sesi wawancara kami tidak ada kendala sama sekali semua nya berjalan baik kami dapat respon positive juga dari pihak sekolah jadi sampai saat ini tidak ada kendala
